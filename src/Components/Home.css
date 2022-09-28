@@ -1,0 +1,31 @@
+.Home-container{
+    position: relative;
+    margin-top: 5%;
+}
+
+.Home-container h5{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: underline red;
+}
+.Home-Fot{
+    position: relative;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Home-Card{
+    width: 17rem;
+    box-shadow: 0px 5px 20px rgb(117, 110, 110);
+    margin-bottom: 25px;
+
+}
+.Home-Card h4{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}

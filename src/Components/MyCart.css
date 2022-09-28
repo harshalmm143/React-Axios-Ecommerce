@@ -1,0 +1,103 @@
+.cart-Container {
+    position: relative;
+    margin-top: 5%;
+}
+
+.cart-Container h5 {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: underline red;
+}
+
+.Cart-Fot {
+    position: relative;
+    margin-top: 8%;
+
+}
+
+.Remove-but {
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.Remove-but:hover {
+    background-color: red !important
+
+}
+
+.cart-icon {
+    cursor: pointer;
+}
+
+.Cart-div {
+    background-color: #FFF;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    height: 200px;
+    box-shadow: 0px 5px 20px rgb(117, 110, 110);
+    ;
+    border-radius: 10px;
+}
+
+.Cart-div h4 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+.place-but {
+    background-color: yellow !important;
+    border: none;
+    float: right;
+    margin-right: 5px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.place-Gut {
+    background-color: red !important;
+    border: none;
+    float: right;
+    margin-right: 5px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.place-Cut {
+    background-color: green !important;
+    border: none;
+    float: right;
+    margin-right: 5px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.Cart-Card {
+    width: 20rem;
+    box-shadow: 0px 5px 20px rgb(117, 110, 110);
+    ;
+    margin-bottom: 25px;
+    margin-left: 10%;
+}
+
+.Cart-Card h4 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+
+}

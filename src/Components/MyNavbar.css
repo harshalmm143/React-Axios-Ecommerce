@@ -1,0 +1,35 @@
+.Task-Navbar{
+    background-color:aqua;
+    
+
+}
+
+.nlink {
+    font-weight: 600;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(17, 16, 16);
+    margin: 10px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+
+}
+
+.nlink:hover {
+    color: black;
+    border-bottom: 2px solid #5c04f4;
+    border-radius: 10px;
+
+}
+.nav-icon{
+    width: 25px;
+    margin-top: -3px;
+
+}
+
+.Task-main{
+    margin: 10px;
+    margin-left: 70%;
+}
