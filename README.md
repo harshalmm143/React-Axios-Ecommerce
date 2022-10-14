@@ -1,3 +1,8 @@
+<p align="right">
+<img src='https://user-images.githubusercontent.com/102899317/195816326-d2c54fd9-22de-4ef1-919d-ce3249198b58.png' width="550" height="250" />
+</p>
+
+
 # CRUD operation on Items and order.
 
 This project Calculation of Total Amount using Item Price and Item Quantity, when Item is added in the Cart
